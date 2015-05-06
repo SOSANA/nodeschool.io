@@ -1,0 +1,16 @@
+{
+// Configure your Run and Preview buttons here.
+
+// Run button configuration
+  "commands": {
+        "Node version": "node --version"
+  },
+
+// Preview button configuration
+  "preview": {
+        "Project Index (static)": "https://{{summer-coconut.codio.io}}/{{index}}",
+        "Current File (static)": "https://{{summer-coconut.codio.io}}/{{filepath}}",
+        "Box URL": "http://{{summer-coconut.codio.io}}:3000/",
+        "Box URL SSL": "https://{{summer-coconut.codio.io}}:9500/"
+  }
+}
