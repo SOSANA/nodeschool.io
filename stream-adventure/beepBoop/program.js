@@ -3,3 +3,8 @@
  * 
 */
 
+var beepBoop = function() {
+    console.log("beep boop");
+}
+
+beepBoop();
